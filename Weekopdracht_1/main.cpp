@@ -25,7 +25,6 @@ public:
 	{
 		if (MAK_BACK == keyCode)
 		{
-			// Call close to exit the application.
 			close();
 		}
 
